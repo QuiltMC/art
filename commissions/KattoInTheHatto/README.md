@@ -21,9 +21,9 @@ Remember, these terms only affect The Quilt Project - unless you're on the Commu
 in a strictly official manner, **these terms do not apply to you, and you have no rights to use the works of art for
 anything.**
 
-✔️ Allowed | ❌ Not allowed
----------- | --------------
-Use it for yourself personally (Icons, PFP, Twitter/Discord banners) | Sell this as a product
-Reupload with credits | Claim as your own
-Add backgrounds or cropping | Trace or heavily edit
-- | Commercial use 
+| ✔️ Allowed | ❌ Not allowed |
+| ---------- | -------------- |
+| Use it for yourself personally (Icons, PFP, Twitter/Discord banners) | Sell this as a product |
+| Reupload with credits | Claim as your own |
+| Add backgrounds or cropping | Trace or heavily edit |
+| - | Commercial use | 

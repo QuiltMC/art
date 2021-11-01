@@ -23,9 +23,9 @@ Remember, these terms only affect The Quilt Project - unless you're on the Commu
 in a strictly official manner, **these terms do not apply to you, and you have no rights to use the works of art for
 anything.**
 
-✔️ Allowed | ❌ Not allowed
----------- | --------------
-personal use; printing for yourself, using as icons, twitter banners, etc | commercial use is strictly prohibited- no use behind paywalls (eg, patreon), etc
-reupload with credit | reupload and claim as your own
-re-size, crop, add background | trace, significantly edit the commissioned piece
-keep the commission for personal use only | profit out of the commissioned piece in any way
+| ✔️ Allowed | ❌ Not allowed |
+| ---------- | -------------- |
+| personal use; printing for yourself, using as icons, twitter banners, etc | commercial use is strictly prohibited- no use behind paywalls (eg, patreon), etc |
+| reupload with credit | reupload and claim as your own |
+| re-size, crop, add background | trace, significantly edit the commissioned piece |
+| keep the commission for personal use only | profit out of the commissioned piece in any way |
