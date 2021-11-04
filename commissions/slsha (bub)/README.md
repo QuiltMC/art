@@ -29,3 +29,4 @@ anything.**
 | reupload with credit | reupload and claim as your own |
 | re-size, crop, add background | trace, significantly edit the commissioned piece |
 | keep the commission for personal use only | profit out of the commissioned piece in any way |
+| - | any usage related to cryptocurrencies or NFTs |
