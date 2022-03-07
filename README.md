@@ -3,9 +3,9 @@
 This repository contains art and branding related to the Quilt project.
 
 Most contributions to this repository come under the repository license, which is the
-[CC0 1.0 Universal License](/LICENSE). However, some assets in this repository have been
-contributed under more restrictive licenses. For further information, check the
-for a `README.md` or `LICENSE` file within each individual folder.
+[CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/). However, some 
+assets in this repository have been contributed under more restrictive licenses. For further 
+information, check for a `README.md` or `LICENSE` file within each individual folder.
 
 ## General Artwork
 
