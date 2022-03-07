@@ -11,7 +11,9 @@ for a `README.md` or `LICENSE` file within each individual folder.
 
 * [/banners](/banners) - All of Quilt's in-house banner art, created by members of the community team
 * [/brand](/brand) - Quilt's official branding, primarily created by [Prospector](https://github.com/Prospector/)
-* [/emoji](/emoji) - Source files for various Quilt-centric emoji
+* [/emoji](/emoji) - Various Quilt-centric emoji
+* [/stickers](/stickers) - Various Quilt-centric stickers
+* [/misc](/misc) - Miscellaneous assets that don't really fit anywhere else
 
 ## Commissions
 
