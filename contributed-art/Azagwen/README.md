@@ -1,6 +1,6 @@
 # Artist: Azagwen
 
-All the artwork in this folder was created by **Azagwen**. For more information on their work see the following page:
+All the artwork in this folder was created by **Azagwen**. For more information on their work see the following pages:
 
 * [Main Twitter](https://twitter.com/azagwen)
 * [2D Art Twitter](https://twitter.com/azagwen_art)
