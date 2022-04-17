@@ -8,5 +8,5 @@ All the artwork in this folder was created by **Azagwen**. For more information 
 # Licensing Terms
 
 The works of art in this folder are provided under the 
-[Creative Commons BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). A copy of this license is
+[CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/). A copy of this license is
 also provided [within this folder](./LICENSE.md).
