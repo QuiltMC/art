@@ -1,16 +1,16 @@
 ### Below are the Icons next to each other in 128x
 
-[ ] QSL core
-[x] QSL block
-[ ] QSL command
-[ ] QSL data
-[x] QSL entity
-[ ] QSL GUI
-[ ] QSL item
-[ ] QSL rendering
-[X] QSL transfer
-[ ] QSL worldgen
-[x] Quilted Fabric API
+- [ ] QSL core
+- [x] QSL block
+- [ ] QSL command
+- [ ] QSL data
+- [x] QSL entity
+- [ ] QSL GUI
+- [ ] QSL item
+- [ ] QSL rendering
+- [X] QSL transfer
+- [ ] QSL worldgen
+- [x] Quilted Fabric API
 
 ![img](block_qsl/block_qsl_icon_128x.png)
 ![img](entity_qsl/entity_qsl_icon_128x.png)
