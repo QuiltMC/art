@@ -1,9 +1,9 @@
 # Artist: KattoInTheHatto
 
-All the artwork in this folder was created by **KattoInTheHatto**, also known as **Kat**. For more information
+All the artwork in this folder was created by **Digital Whiskers**, also known as **Kat**. For more information
 on Kat's work, or to commission her yourself, see the following page:
 
-* [Commissions Carrd](https://kattointhehatto.carrd.co/)
+* [Commissions Carrd](https://digital-whiskers.carrd.co)
 
 # Licensing Terms
 
@@ -16,7 +16,7 @@ The **only** exception to this rule is when you're linking to Quilt Project acco
 Internet. If you're working with a social media network (such as Twitter) that provides previews of the links you're
 posting, it's OK if those previews include commissioned artwork included on the page you're linking to.
 
-The following table is taken from [Kat's commissions Carrd](https://kattointhehatto.carrd.co/) (at the bottom).
+The following table is taken from an older version of [Kat's commissions Carrd](https://digital-whiskers.carrd.co).
 Remember, these terms only affect The Quilt Project - unless you're on the Community Team or Admin Board and acting
 in a strictly official manner, **these terms do not apply to you, and you have no rights to use the works of art for
 anything.**
