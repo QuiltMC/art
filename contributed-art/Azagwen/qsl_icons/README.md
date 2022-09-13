@@ -7,14 +7,14 @@
 
 ### Progress on all Icons
 
-- [ ] QSL core
-- [x] QSL block
-- [ ] QSL command
-- [ ] QSL data
-- [x] QSL entity
-- [ ] QSL GUI
-- [ ] QSL item
-- [ ] QSL rendering
-- [X] QSL transfer
-- [ ] QSL worldgen
-- [x] Quilted Fabric API
+⬛ QSL core
+✅ QSL block
+⬛ QSL command
+⬛ QSL data
+✅ QSL entity
+⬛ QSL GUI
+⬛ QSL item
+⬛ QSL rendering
+✅ QSL transfer
+⬛ QSL worldgen
+✅ Quilted Fabric API
